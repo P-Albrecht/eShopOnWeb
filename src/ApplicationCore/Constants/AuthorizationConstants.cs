@@ -1,6 +1,7 @@
-﻿namespace Microsoft.eShopWeb.ApplicationCore.Constants;
+﻿namespace Microsoft
+.eShopWeb.ApplicationCore.Constants;
 
-public class AuthorizationConstants
+public class AuthorizationConstant
 {
     public const string AUTH_KEY = "AuthKeyOfDoomThatMustBeAMinimumNumberOfBytes";
 
@@ -9,4 +10,5 @@ public class AuthorizationConstants
 
     // TODO: Change this to an environment variable
     public const string JWT_SECRET_KEY = "SecretKeyOfDoomThatMustBeAMinimumNumberOfBytes";
-}
+}s
+hhh
